@@ -1,4 +1,4 @@
-### Hi there 👋
+### Buenas! 👋
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Pacodiz02&show_icons=true&theme=buefy)
 
