@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-<!--
-**Pacodiz02/Pacodiz02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![github stats](https://github-readme-stats.vercel.app/api?username=Pacodiz02&show_icons=true&theme=buefy)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pacodiz02&layout=compact&theme=buefy)
+
+<!--
+**Pacodiz02/Pacodiz02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
